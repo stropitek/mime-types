@@ -1,5 +1,5 @@
 {
-  "name": "mime-types-browserify",
+  "name": "mime-types",
   "main": "./src/index.js",
   "scripts": {
     "build": "gulp build"
@@ -17,6 +17,7 @@
     "gulp-uglify": "^1.1.0",
     "mocha": "latest",
     "mocha-better-spec-reporter": "latest",
+    "mochify": "^2.9.0",
     "should": "latest",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.0.0"
